@@ -1,0 +1,3 @@
+﻿  tictacoe.cpp
+D:\visualcode\tictacoe\tictacoe\tictacoe.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  tictacoe.vcxproj -> D:\visualcode\tictacoe\x64\Debug\tictacoe.exe
